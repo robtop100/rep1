@@ -669,12 +669,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "c:\\Users\\Student\\source\\gity\\rep1\\core_console\\core_console.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\source\\gity\\rep1\\core_console\\core_console.csproj",
       "projectName": "core_console",
-      "projectPath": "c:\\Users\\Student\\source\\gity\\rep1\\core_console\\core_console.csproj",
+      "projectPath": "C:\\Users\\Student\\source\\gity\\rep1\\core_console\\core_console.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Student\\source\\gity\\rep1\\core_console\\obj\\",
+      "outputPath": "C:\\Users\\Student\\source\\gity\\rep1\\core_console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
